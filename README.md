@@ -204,8 +204,6 @@ Os resultados para aluguel apresentaram desempenho inferior ao observado na prev
 
 Esse resultado indica que outras variáveis não presentes na base podem ter influência relevante sobre os valores de aluguel.
 
-> A modelagem de aluguel é apresentada no notebook por meio das métricas e da tabela comparativa. Não há um gráfico exclusivo de modelagem de aluguel entre as figuras incorporadas ao notebook.
-
 ---
 
 ## 🧩 9. PCA, redução de dimensionalidade
@@ -280,8 +278,6 @@ O erro médio residual ficou próximo de:
 **R$ -4.570**
 
 Essa análise adiciona uma perspectiva estatística à avaliação do modelo, permitindo observar a incerteza associada à estimativa do erro.
-
-> O cálculo do bootstrap está presente no notebook, porém não foi gerado um gráfico separado para essa etapa. Por isso, não há uma imagem `bootstrap_mae.png` no README.
 
 ---
 
