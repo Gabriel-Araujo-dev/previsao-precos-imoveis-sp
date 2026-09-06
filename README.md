@@ -376,7 +376,7 @@ projeto-precos-imoveis-sp/
 │   ├── distribuicao_precos.png
 │   ├── matriz_correlacao.png
 │   ├── preco_tamanho.png
-│   ├── ranking_distritos.png
+│   ├── preco_m2_distrito.png.png
 │   ├── comparacao_modelos.png
 │   ├── real_predito.png
 │   ├── feature_importance.png
