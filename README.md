@@ -173,7 +173,7 @@ A comparação entre os valores reais e previstos permite observar visualmente o
 
 Quanto mais próximos os pontos estiverem da linha de referência, melhor é a correspondência entre o preço observado e o preço estimado.
 
-![Valores reais x preditos](images/real_predito.png)
+![Valores reais x previstos](images/real_predito.png)
 
 ---
 
