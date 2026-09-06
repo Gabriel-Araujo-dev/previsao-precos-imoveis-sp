@@ -119,7 +119,7 @@ O gráfico apresenta os oito distritos com maior preço médio por m² e os oito
 
 Essa análise evidencia a forte influência da localização na formação dos preços dos imóveis.
 
-![Ranking de preço por m²](images/ranking_distritos.png)
+![Ranking de preço por m²](images/preco_m2_distrito.png)
 
 ---
 
